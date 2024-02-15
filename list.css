@@ -1,0 +1,11 @@
+.heading {
+    color:chocolate;
+    font-family: "roboto";
+    font-style: italic;
+}
+body {
+    margin-left: 700px;
+    background-color:gainsboro;
+    padding: 30px;
+
+}
